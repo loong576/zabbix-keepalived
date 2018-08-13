@@ -1,0 +1,7 @@
+Problem started at 15:08:08 on 2018.08.13
+Problem name: Zabbix agent on 65 is unreachable for 5 minutes
+Host: 65
+Severity: Average
+
+Original problem ID: 27
+
